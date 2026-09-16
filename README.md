@@ -3,7 +3,8 @@
 **Free HD Movie & TV Show Streaming**  
 Watch the latest movies and series online instantly — no sign-up, no hassle.
 
-🌐 **Live Site:** [https://cineratemovies.site](https://cineratemovies.site)
+🌐 **Live Site:** [https://cineratemovies.site](https://cineratemovies.site)  
+📢 **Telegram Updates:** [https://t.me/cineratemovies](https://t.me/cineratemovies)
 
 ---
 
@@ -22,6 +23,7 @@ CinerateMovies is a fast, clean movie streaming platform that lets you watch tho
 - **Clean Interface** – Simple, distraction-free experience
 - **Mobile Friendly** – Works great on phone, tablet, and desktop
 - **Huge Library** – Thousands of titles across multiple genres
+- **Telegram Channel** – Get the latest updates and new releases first
 
 ---
 
@@ -34,6 +36,7 @@ CinerateMovies is a fast, clean movie streaming platform that lets you watch tho
 | Updated Daily        | Fresh content regularly          |
 | Fast Servers         | Minimal buffering                |
 | Easy to Use          | Search, browse, and play in seconds |
+| Telegram Updates     | Never miss new movies            |
 
 ---
 
@@ -44,6 +47,14 @@ CinerateMovies is a fast, clean movie streaming platform that lets you watch tho
 3. Click play and start watching
 
 That’s it. No downloads. No sign-up. Just stream.
+
+---
+
+### 📢 Stay Updated
+
+Join our official Telegram channel for the latest movie updates, new releases, and announcements:
+
+👉 **[https://t.me/cineratemovies](https://t.me/cineratemovies)**
 
 ---
 
@@ -70,8 +81,11 @@ CinerateMovies is an independent streaming platform. We do not host any video fi
 
 ### 📬 Contact & Support
 
-For questions, feedback, or issues, open an issue in this repository or visit the website.
+- Website: [cineratemovies.site](https://cineratemovies.site)
+- Telegram: [t.me/cineratemovies](https://t.me/cineratemovies)
+- Or open an issue in this repository
 
 ---
 
-**Start watching now → [cineratemovies.site](https://cineratemovies.site)**
+**Start watching now → [cineratemovies.site](https://cineratemovies.site)**  
+**Join Telegram for updates → [t.me/cineratemovies](https://t.me/cineratemovies)**
